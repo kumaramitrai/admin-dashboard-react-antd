@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+.brand-container {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.brand-title {
+  font-weight: bolder;
+}
+.breadcrum-main {
+  margin-left: 10px;
+}
+.navbar-right {
+  margin-left: auto;
+}
+
+.home-card-area {
+  margin: 20px;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.settings-button {
+margin-right: 64px;
+}
